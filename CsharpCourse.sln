@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsharpCourse", "CsharpCours
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaSequencial", "EstruturaSequencial\EstruturaSequencial.csproj", "{763A2268-2C35-4F3F-8969-BF215E07E60E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaCondicional", "EstruturaCondicional\EstruturaCondicional.csproj", "{B93F23E7-2E3C-416D-AB0C-63691FCA9880}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaCondicional", "EstruturaCondicional\EstruturaCondicional.csproj", "{B93F23E7-2E3C-416D-AB0C-63691FCA9880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaRepeticao", "EstruturaRepeticao\EstruturaRepeticao.csproj", "{8A1D22A1-01E7-400F-B9C0-00E7660B9D40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{B93F23E7-2E3C-416D-AB0C-63691FCA9880}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B93F23E7-2E3C-416D-AB0C-63691FCA9880}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B93F23E7-2E3C-416D-AB0C-63691FCA9880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A1D22A1-01E7-400F-B9C0-00E7660B9D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1D22A1-01E7-400F-B9C0-00E7660B9D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1D22A1-01E7-400F-B9C0-00E7660B9D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1D22A1-01E7-400F-B9C0-00E7660B9D40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

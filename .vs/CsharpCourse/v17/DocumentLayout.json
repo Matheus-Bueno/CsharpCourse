@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B93F23E7-2E3C-416D-AB0C-63691FCA9880}|EstruturaCondicional\\EstruturaCondicional.csproj|c:\\users\\matheus\\documents\\meusprojetos\\csharpcourse\\estruturacondicional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B93F23E7-2E3C-416D-AB0C-63691FCA9880}|EstruturaCondicional\\EstruturaCondicional.csproj|solutionrelative:estruturacondicional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A1D22A1-01E7-400F-B9C0-00E7660B9D40}|EstruturaRepeticao\\EstruturaRepeticao.csproj|c:\\users\\matheus\\documents\\meusprojetos\\csharpcourse\\estruturarepeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1D22A1-01E7-400F-B9C0-00E7660B9D40}|EstruturaRepeticao\\EstruturaRepeticao.csproj|solutionrelative:estruturarepeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\EstruturaCondicional\\Program.cs",
-              "RelativeDocumentMoniker": "EstruturaCondicional\\Program.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\EstruturaCondicional\\Program.cs",
-              "RelativeToolTip": "EstruturaCondicional\\Program.cs",
-              "ViewState": "AgIAAP0AAAAAAAAAAAAgwA4BAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\EstruturaRepeticao\\Program.cs",
+              "RelativeDocumentMoniker": "EstruturaRepeticao\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\EstruturaRepeticao\\Program.cs",
+              "RelativeToolTip": "EstruturaRepeticao\\Program.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAuwO0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T18:38:37.167Z",
+              "WhenOpened": "2025-10-06T15:09:56.592Z",
               "EditorCaption": ""
             }
           ]
