@@ -20,6 +20,8 @@ namespace EstruturaRepeticao
             Console.WriteLine("6 - Média Ponderada");
             Console.WriteLine("7 - Divisão");
             Console.WriteLine("8 - Fatorial");
+            Console.WriteLine("9 - Verificar Divisores ");
+            Console.WriteLine("10 - Quadrado e Cubo ");
 
             while (true)
             {
@@ -51,6 +53,15 @@ namespace EstruturaRepeticao
                         break;
                     case "8":
                         Exercicio8();
+                        break;
+                    case "9":
+                        Exercicio9();
+                        break;
+                    case "10":
+                        Exercicio10();
+                        break;
+                    case "11":
+                        Desafio();
                         break;
                     case "0":
                         return;
@@ -226,17 +237,75 @@ namespace EstruturaRepeticao
                 }
                 else
                 {
-                    double divisao = num1 / num2 ;
+                    double divisao = num1 / num2;
 
-                    Console.WriteLine (divisao.ToString("F2", CultureInfo.InvariantCulture));
+                    Console.WriteLine(divisao.ToString("F2", CultureInfo.InvariantCulture));
                 }
             }
         }
 
         private static void Exercicio8()
         {
+            int x = int.Parse(Console.ReadLine());
 
+            int result = 1;
+
+            for (int i = 1; i <= x; i++)
+            {
+                result *= i;
+            }
+            Console.WriteLine(result);
         }
 
+
+        private static void Exercicio9()
+        {
+            int x = int.Parse(Console.ReadLine());
+
+            for (int i = 1; i <= x; i++)
+            {
+                if (x % i == 0)
+                {
+                    Console.WriteLine(i);
+                }
+            }
+        }
+
+        private static void Exercicio10()
+        {
+            int x = int.Parse(Console.ReadLine());
+
+            for (int i = 1; i <= x; i++)
+            {
+                int quadrado = i * i;
+                int cubo = i * i * i;
+
+                //numero da linha  | quadrado | cubo
+                Console.WriteLine($"{i} {quadrado} {cubo}");
+            }
+        }
+
+        private static void Desafio()
+        {
+
+            int x = int.Parse(Console.ReadLine());
+
+            for (int i = 1; i <= x; i++)
+            {
+
+                string linha = string.Concat(Enumerable.Repeat(i.ToString(), i));
+                Console.WriteLine(linha);
+
+
+                //for (int j = 1; j <= i; j++)
+                //{
+                //    if (j == i)
+                //    { Console.Write(i + "\n"); }
+                //    else
+                //    { Console.Write(i); }
+                //}
+
+            }
+        }
     }
 }
