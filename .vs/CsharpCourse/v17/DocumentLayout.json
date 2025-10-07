@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEE1C6DC-0519-495E-8926-6F0EB5DF9C35}|OrientadoAObjetos\\OrientadoAObjetos.csproj|c:\\users\\matheus\\documents\\meusprojetos\\csharpcourse\\orientadoaobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEE1C6DC-0519-495E-8926-6F0EB5DF9C35}|OrientadoAObjetos\\OrientadoAObjetos.csproj|solutionrelative:orientadoaobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13ADEEAB-C76B-410D-894D-2E205619EB94}|ClassesAtributosEtc\\ClassesAtributosEtc.csproj|c:\\users\\matheus\\documents\\meusprojetos\\csharpcourse\\classesatributosetc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13ADEEAB-C76B-410D-894D-2E205619EB94}|ClassesAtributosEtc\\ClassesAtributosEtc.csproj|solutionrelative:classesatributosetc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEE1C6DC-0519-495E-8926-6F0EB5DF9C35}|OrientadoAObjetos\\OrientadoAObjetos.csproj|c:\\users\\matheus\\documents\\meusprojetos\\csharpcourse\\orientadoaobjetos\\exercicioum\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEE1C6DC-0519-495E-8926-6F0EB5DF9C35}|OrientadoAObjetos\\OrientadoAObjetos.csproj|solutionrelative:orientadoaobjetos\\exercicioum\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13ADEEAB-C76B-410D-894D-2E205619EB94}|ClassesAtributosEtc\\ClassesAtributosEtc.csproj|c:\\users\\matheus\\documents\\meusprojetos\\csharpcourse\\classesatributosetc\\exercicioquatro\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13ADEEAB-C76B-410D-894D-2E205619EB94}|ClassesAtributosEtc\\ClassesAtributosEtc.csproj|solutionrelative:classesatributosetc\\exercicioquatro\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13ADEEAB-C76B-410D-894D-2E205619EB94}|ClassesAtributosEtc\\ClassesAtributosEtc.csproj|c:\\users\\matheus\\documents\\meusprojetos\\csharpcourse\\classesatributosetc\\exerciciotres\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13ADEEAB-C76B-410D-894D-2E205619EB94}|ClassesAtributosEtc\\ClassesAtributosEtc.csproj|solutionrelative:classesatributosetc\\exerciciotres\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,27 +31,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Retangulo.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\OrientadoAObjetos\\ExercicioUm\\Retangulo.cs",
-              "RelativeDocumentMoniker": "OrientadoAObjetos\\ExercicioUm\\Retangulo.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\OrientadoAObjetos\\ExercicioUm\\Retangulo.cs",
-              "RelativeToolTip": "OrientadoAObjetos\\ExercicioUm\\Retangulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\ClassesAtributosEtc\\ExercicioQuatro\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "ClassesAtributosEtc\\ExercicioQuatro\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\ClassesAtributosEtc\\ExercicioQuatro\\ContaBancaria.cs",
+              "RelativeToolTip": "ClassesAtributosEtc\\ExercicioQuatro\\ContaBancaria.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T19:03:24.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T20:11:08.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\ClassesAtributosEtc\\ExercicioTres\\Aluno.cs",
+              "RelativeDocumentMoniker": "ClassesAtributosEtc\\ExercicioTres\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\ClassesAtributosEtc\\ExercicioTres\\Aluno.cs",
+              "RelativeToolTip": "ClassesAtributosEtc\\ExercicioTres\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:10:10.09Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\OrientadoAObjetos\\Program.cs",
-              "RelativeDocumentMoniker": "OrientadoAObjetos\\Program.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\OrientadoAObjetos\\Program.cs",
-              "RelativeToolTip": "OrientadoAObjetos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAaAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\ClassesAtributosEtc\\Program.cs",
+              "RelativeDocumentMoniker": "ClassesAtributosEtc\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\ClassesAtributosEtc\\Program.cs",
+              "RelativeToolTip": "ClassesAtributosEtc\\Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAIwG8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T18:59:56.391Z",
+              "WhenOpened": "2025-10-07T19:49:25.706Z",
               "EditorCaption": ""
             }
           ]

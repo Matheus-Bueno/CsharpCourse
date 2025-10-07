@@ -1,8 +1,9 @@
 ﻿
-namespace OrientadoAObjetos.ExercicioUm
+namespace ClassesAtributosEtc.ExercicoUm
 {
-    class Retangulo
+     class Retangulo
     {
+
         public double Largura;
         public double Altura;
 
