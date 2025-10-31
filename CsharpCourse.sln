@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaCondicional", "Est
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaRepeticao", "EstruturaRepeticao\EstruturaRepeticao.csproj", "{8A1D22A1-01E7-400F-B9C0-00E7660B9D40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesAtributosEtc", "ClassesAtributosEtc\ClassesAtributosEtc.csproj", "{13ADEEAB-C76B-410D-894D-2E205619EB94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassesAtributosEtc", "ClassesAtributosEtc\ClassesAtributosEtc.csproj", "{13ADEEAB-C76B-410D-894D-2E205619EB94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vetores", "Vetores\Vetores.csproj", "{E4006F63-33FF-4A3A-9C39-B8CC6756C2B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{13ADEEAB-C76B-410D-894D-2E205619EB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13ADEEAB-C76B-410D-894D-2E205619EB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13ADEEAB-C76B-410D-894D-2E205619EB94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4006F63-33FF-4A3A-9C39-B8CC6756C2B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4006F63-33FF-4A3A-9C39-B8CC6756C2B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4006F63-33FF-4A3A-9C39-B8CC6756C2B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4006F63-33FF-4A3A-9C39-B8CC6756C2B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

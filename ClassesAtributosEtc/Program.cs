@@ -93,7 +93,7 @@ namespace ClassesAtributosEtc
             Console.WriteLine("Entre a Informaçoes do Aluno ");
 
             Console.WriteLine("Nome do Aluno: ");
-            string nomeAluno = Console.ReadLine();
+            string nomeAluno = Console.ReadLine() ?? "";
 
             double[] notas = new double[3];
             Console.WriteLine("Digite as três notas do aluno:");
@@ -118,12 +118,12 @@ namespace ClassesAtributosEtc
             string titular = Console.ReadLine();
 
             Console.Write("Haverá depósito inicial (s/n)? ");
-            char resp = char.Parse(Console.ReadLine());
+            char resp = char.Parse(Console.ReadLine() ?? "");
 
             if (resp == 's' || resp == 'S')
             {
                 Console.Write("Entre o valor de depósito inicial: ");
-                double depositoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                double depositoInicial = double.Parse(Console.ReadLine() ?? "", CultureInfo.InvariantCulture);
                 conta = new ContaBancaria(numero, titular, depositoInicial);
             }
             else
@@ -138,14 +138,14 @@ namespace ClassesAtributosEtc
 
             Console.WriteLine();
             Console.Write("Entre um valor para depósito: ");
-            double quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double quantia = double.Parse(Console.ReadLine() ?? "", CultureInfo.InvariantCulture);
             conta.Deposito(quantia);
             Console.WriteLine("Dados da conta atualizados:");
             Console.WriteLine(conta);
 
             Console.WriteLine();
             Console.Write("Entre um valor para saque: ");
-            quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            quantia = double.Parse(Console.ReadLine() ?? "", CultureInfo.InvariantCulture);
             conta.Saque(quantia);
             Console.WriteLine("Dados da conta atualizados:");
             Console.WriteLine(conta);

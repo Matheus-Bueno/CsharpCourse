@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E4006F63-33FF-4A3A-9C39-B8CC6756C2B0}|Vetores\\Vetores.csproj|c:\\users\\matheus\\documents\\meusprojetos\\csharpcourse\\vetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4006F63-33FF-4A3A-9C39-B8CC6756C2B0}|Vetores\\Vetores.csproj|solutionrelative:vetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13ADEEAB-C76B-410D-894D-2E205619EB94}|ClassesAtributosEtc\\ClassesAtributosEtc.csproj|c:\\users\\matheus\\documents\\meusprojetos\\csharpcourse\\classesatributosetc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13ADEEAB-C76B-410D-894D-2E205619EB94}|ClassesAtributosEtc\\ClassesAtributosEtc.csproj|solutionrelative:classesatributosetc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13ADEEAB-C76B-410D-894D-2E205619EB94}|ClassesAtributosEtc\\ClassesAtributosEtc.csproj|c:\\users\\matheus\\documents\\meusprojetos\\csharpcourse\\classesatributosetc\\exercicioquatro\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13ADEEAB-C76B-410D-894D-2E205619EB94}|ClassesAtributosEtc\\ClassesAtributosEtc.csproj|solutionrelative:classesatributosetc\\exercicioquatro\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13ADEEAB-C76B-410D-894D-2E205619EB94}|ClassesAtributosEtc\\ClassesAtributosEtc.csproj|c:\\users\\matheus\\documents\\meusprojetos\\csharpcourse\\classesatributosetc\\exerciciotres\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13ADEEAB-C76B-410D-894D-2E205619EB94}|ClassesAtributosEtc\\ClassesAtributosEtc.csproj|solutionrelative:classesatributosetc\\exerciciotres\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ContaBancaria.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\ClassesAtributosEtc\\ExercicioQuatro\\ContaBancaria.cs",
-              "RelativeDocumentMoniker": "ClassesAtributosEtc\\ExercicioQuatro\\ContaBancaria.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\ClassesAtributosEtc\\ExercicioQuatro\\ContaBancaria.cs",
-              "RelativeToolTip": "ClassesAtributosEtc\\ExercicioQuatro\\ContaBancaria.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAwAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T20:11:08.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\ClassesAtributosEtc\\ExercicioTres\\Aluno.cs",
-              "RelativeDocumentMoniker": "ClassesAtributosEtc\\ExercicioTres\\Aluno.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\ClassesAtributosEtc\\ExercicioTres\\Aluno.cs",
-              "RelativeToolTip": "ClassesAtributosEtc\\ExercicioTres\\Aluno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T20:10:10.09Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\Vetores\\Program.cs",
+              "RelativeDocumentMoniker": "Vetores\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\Vetores\\Program.cs",
+              "RelativeToolTip": "Vetores\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T20:30:19.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\ClassesAtributosEtc\\Program.cs",
               "RelativeDocumentMoniker": "ClassesAtributosEtc\\Program.cs",
               "ToolTip": "C:\\Users\\Matheus\\Documents\\MeusProjetos\\CsharpCourse\\ClassesAtributosEtc\\Program.cs",
               "RelativeToolTip": "ClassesAtributosEtc\\Program.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAIwG8AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T19:49:25.706Z",
               "EditorCaption": ""
